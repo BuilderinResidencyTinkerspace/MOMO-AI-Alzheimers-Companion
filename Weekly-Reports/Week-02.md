@@ -2,6 +2,7 @@ Project Idea Presentation
 Objective
 
 Formulate and present an initial concept for the project to the organisation for feedback and direction.
+
 Activities
 
 ●	Brainstormed the core idea for MOMO — a tabletop chatbot to assist senior citizens with Alzheimer's disease
