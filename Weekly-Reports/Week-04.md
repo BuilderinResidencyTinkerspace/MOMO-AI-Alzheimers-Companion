@@ -9,6 +9,8 @@ Activities
 
 ●	Identified peripheral components: microphone, speakers, and sensors
 
+●Researched the 4.3-inch e-Paper UART display.
+
 ●	Explored options for a 3D-printed enclosure/box for the tabletop form factor
 
 Outcome
