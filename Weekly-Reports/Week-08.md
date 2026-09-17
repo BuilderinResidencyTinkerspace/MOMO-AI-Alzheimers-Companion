@@ -5,11 +5,17 @@ Bring together all components and finalise the project for demonstration.
 
 Activities
 
-●	Integrated hardware and software components into a complete working system
+●	Integrated the hardware and software components.
 
-●	Tested and refined the end-to-end pipeline
+●Tested the complete voice-based chatbot pipeline.
 
-●	Finalised the physical build, including the enclosure
+●Refined the system based on testing.
+
+●Completed the physical assembly.
+
+●Installed the Raspberry Pi inside the enclosure.
+
+●Connected the e-Paper display.
 
 Outcome
 
