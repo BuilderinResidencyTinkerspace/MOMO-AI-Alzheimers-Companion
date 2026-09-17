@@ -6,15 +6,15 @@ Review the completed MOMO project and document the work carried out during the p
 
 Activities
 
-Reviewed the complete project implementation.
+●Reviewed the complete project implementation.
 
-Organised the weekly project documentation.
+●Organised the weekly project documentation.
 
-Compiled photographs and development records.
+●Compiled photographs and development records.
 
-Reviewed the hardware and software setup.
+●Reviewed the hardware and software setup.
 
-Documented the final project outcome and learning experience.
+●Documented the final project outcome and learning experience.
 
 Outcome
 
