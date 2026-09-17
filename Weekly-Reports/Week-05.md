@@ -19,11 +19,11 @@ Voice Input
 
      ↓
 Speech/NLP Processing
-
+    
      ↓
 On-device LLM (Gemma)
-     ↓
 
+     ↓
 Text Response
 
      ↓
