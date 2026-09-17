@@ -7,7 +7,9 @@ Activities
 •Attended the initial orientation and induction.
 
 •Became familiar with the organisation and working environment.
+
 •Understood the general expectations, workflow, and project process.
+
 •Interacted with team members and mentors.
 
 Outcome
