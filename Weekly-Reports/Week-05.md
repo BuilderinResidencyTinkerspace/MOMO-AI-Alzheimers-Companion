@@ -22,7 +22,6 @@ Speech/NLP Processing
 
      ↓
 On-device LLM (Gemma)
-
      ↓
 Text Response
 
