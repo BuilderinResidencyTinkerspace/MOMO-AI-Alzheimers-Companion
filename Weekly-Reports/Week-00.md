@@ -1,7 +1,7 @@
 Organisation Induction
 Objective
 
-Get introduced to the organisation and understand the internship/project environment.
+Get introduced to the organisation and understand the project environment.
 Activities
 
 •Attended the initial orientation and induction.
