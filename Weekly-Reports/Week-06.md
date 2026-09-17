@@ -7,8 +7,12 @@ Activities
 
 ●	Started building out the voice input and processing pipeline
 
-●	Began integration work between hardware components and software
+●	Began software configuration and testing.
 
-Outcome
+●Started integrating hardware and software components.
 
-Development was underway, with the core pipeline components being assembled and tested individually.
+●Tested individual components before combining them into the complete system.
+
+Outcomes 
+
+Initial development was completed and the main software and hardware components began working together.
