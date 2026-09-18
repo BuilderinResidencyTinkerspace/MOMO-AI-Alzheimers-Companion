@@ -60,3 +60,7 @@ Deliverables:
 
 Status: 
 Pipeline technically complete. TTS confirmed working well. However, the system is not usable as a real companion due to upstream STT and LLM failures. TTS output unverified through a speaker, but WAV quality is good.
+<img width="1280" height="720" alt="WhatsApp Image 2026-09-18 at 6 51 29 PM" src="https://github.com/user-attachments/assets/de40b68c-c0c7-4df6-aa10-c3b27788c74b" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 6 51 30 PM" src="https://github.com/user-attachments/assets/babd8421-d2b5-49a8-aca5-4377b72e46d0" />
+<img width="874" height="1280" alt="WhatsApp Image 2026-09-18 at 6 52 04 PM" src="https://github.com/user-attachments/assets/c9ff3fb9-f646-4ef1-b5e9-cdd44087a9d2" />
+
