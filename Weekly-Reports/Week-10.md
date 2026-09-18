@@ -77,6 +77,7 @@ Deliverables:
 · Deployment checklist for speaker activation.
 
 Status: 
+
 Working end to end in a technical sense (wake word → transcription → Qwen → e-paper → Piper WAV), but not performing as intended. Wake word detection is OK; TTS is confirmed working well; speech transcription is inefficient; the 1.5B model limits response quality and system responsiveness. Speaker hardware still pending, but TTS WAV quality is already verified.
 
 
