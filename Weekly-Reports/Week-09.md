@@ -3,7 +3,7 @@ TTS, THREADING & INTERRUPTION HANDLING
 Phase: 
 Audio Output & Concurrency
 
-Objective
+Objective:
 Add Piper TTS, parallelize display and speech, and implement instant cancellation.
 
 Activities:
