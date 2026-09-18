@@ -1,33 +1,46 @@
-Scoping the Core Feature
-Objective
+SOFTWARE STACKSETUP & ENVIRONMENT CONFIGURATION
 
-Given the limited timeframe, define and lock down the minimum viable functionality for MOMO.
+Phase: 
+Environment Setup & Toolchain Installation
 
-Activities
+Objective: 
+Establish the software foundation on the Raspberry Pi 5 — Python virtual environment, audio subsystem, and model runtimes.
 
-●	Narrowed the scope to a simple voice-based chatbot pipeline
+Activities:
 
-●	Designed the flow: voice input to NLP processing to on-device LLM (Gemma) inference on the Raspberry Pi 5
+· Created the project directory ~/alzheimer-companion/ and set up a Python virtual environment (.venv).
 
-●	Planned the output pipeline: text response converted back to voice and played through the speaker
+· Installed and configured Ollama for local LLM inference.
 
-Outcome
+· Pulled and tested Qwen 2.5 1.5B as the base LLM; created a custom model alzheimer-companion:latest using a companion.md system prompt.
 
-A clear, achievable core feature set was defined — voice in, on-device LLM processing, voice out — providing a realistic target for the remaining build weeks.
+· Installed Vosk (vosk-model-small-en-us-0.15, ~40 MB) for wake-word detection and unzipped it into the working directory.
 
-Voice Input
+· Installed faster-whisper (small.en) for speech-to-text.
 
-     ↓
-Speech/NLP Processing
-    
-     ↓
-On-device LLM (Gemma)
+· Installed Piper TTS with the en_US-amy-medium voice model (.onnx + .json).
 
-     ↓
-Text Response
+· Installed PortAudio dependencies: sudo apt install libportaudio2 portaudio11-dev.
 
-     ↓
-Text-to-Speech
+· Verified audio routing with amixer -c 2 sset 'Mic' 6 (AGC off, level 6).
 
-     ↓
-Speaker Output
+· Built a mic diagnostic script (test_mic.py) to confirm capture at 44100 Hz.
+
+Issues encountered:
+
+· Initial LLM inference with Qwen 2.5 1.5B was noticeably slower than expected on the Pi 5 — responses took several seconds even for short prompts, and this was before STT and TTS were in the pipeline.
+
+· Memory pressure was observed when Ollama loaded the model alongside Whisper; the system occasionally thrashed when both were active.
+
+· Piper TTS worked technically, but with no speaker wired, output could only be verified as a WAV file — no real confirmation of audio quality.
+
+Deliverables:
+
+· Working virtual environment with all dependencies.
+
+· test_mic.py confirming live audio capture.
+
+· Custom Ollama model responding to prompts (albeit slowly).
+
+Status: 
+Toolchain technically operational, but performance and output-verification gaps already evident.
