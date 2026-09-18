@@ -1,5 +1,4 @@
-Project Confirmation
-Objective
+PROJECT CONFIRMATION OBJECTIVE
 
 Finalise and confirm MOMO as the official project to be developed, incorporating feedback from the presentation.
 
