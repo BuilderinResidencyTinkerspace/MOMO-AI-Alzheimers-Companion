@@ -42,3 +42,7 @@ Deliverables:
 
 Status: 
 Display layer functional, but constrained by upstream input quality and slow LLM output.
+<img width="738" height="1600" alt="WhatsApp Image 2026-09-18 at 6 33 53 PM" src="https://github.com/user-attachments/assets/17e6cd49-8f14-4084-ad40-881c1c3879c6" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-09-18 at 6 33 53 PM (1)" src="https://github.com/user-attachments/assets/7d7ad1ad-5f53-46e9-8a06-43885138f3b7" />
+<img width="1280" height="720" alt="WhatsApp Image 2026-09-18 at 6 34 06 PM" src="https://github.com/user-attachments/assets/4e2881c3-ea9a-416d-a1c7-04fb09df9bbe" />
+
