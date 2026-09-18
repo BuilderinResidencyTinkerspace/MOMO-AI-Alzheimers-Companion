@@ -1,5 +1,4 @@
-Project Idea Presentation
-Objective
+PROJECT IDEA PRESENTATION OBJECTIVE
 
 Formulate and present an initial concept for the project to the organisation for feedback and direction.
 
