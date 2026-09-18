@@ -52,3 +52,4 @@ Deliverables:
 
 Status: 
 LLM responses generating, but quality and latency not acceptable for the intended use case. The 1.5B model size is a fundamental constraint.
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 6 48 52 PM" src="https://github.com/user-attachments/assets/32b20c05-6964-4971-b04d-9b02f76d2397" />
