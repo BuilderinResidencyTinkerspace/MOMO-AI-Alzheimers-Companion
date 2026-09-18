@@ -1,5 +1,4 @@
-Getting Acquainted with the Organisation
-Objective
+GETTING ACQUAINTED WITH THE ORGANISATION OBJECTIVE
 
 Get oriented within the organisation (BIR) and understand the working environment, team structure, and expectations ahead of project kickoff.
 
