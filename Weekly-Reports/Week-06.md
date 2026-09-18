@@ -56,3 +56,5 @@ Deliverables:
 
 Status: 
 Wake word detection OK; speech transcription inefficient and unreliable
+<img width="853" height="1280" alt="WhatsApp Image 2026-09-18 at 6 44 56 PM" src="https://github.com/user-attachments/assets/f8123e89-4994-4a4c-9561-b80264e433ad" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 6 45 17 PM" src="https://github.com/user-attachments/assets/c1d0fa63-ed26-41ef-83a3-a5f224c3eefa" />
