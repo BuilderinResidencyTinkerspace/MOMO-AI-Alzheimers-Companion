@@ -44,3 +44,12 @@ Deliverables:
 
 Status: 
 Toolchain technically operational, but performance and output-verification gaps already evident.
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 6 24 27 PM" src="https://github.com/user-attachments/assets/eb13d8f2-6c40-42a8-a6d2-d414d564f25c" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 6 24 30 PM" src="https://github.com/user-attachments/assets/4942325a-9993-490b-9854-2ec8ba76ed60" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 6 24 33 PM" src="https://github.com/user-attachments/assets/f272f7e9-c7d4-4ae2-9430-d2631c5bd0da" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-18 at 6 24 34 PM" src="https://github.com/user-attachments/assets/12e267c9-8285-4c01-99e8-7ac1596f730f" />
+<img width="1280" height="720" alt="WhatsApp Image 2026-09-18 at 6 24 36 PM" src="https://github.com/user-attachments/assets/1437d6d1-ebce-4fbf-9e0b-725f7ccd231d" />
+
+
+
+
