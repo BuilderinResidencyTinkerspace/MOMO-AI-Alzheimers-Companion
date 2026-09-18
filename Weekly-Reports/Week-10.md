@@ -135,7 +135,9 @@ What did not work as intended:
 
 · ❌ No speaker — the primary output modality was never tested in real use, though TTS WAV quality was verified.
 
-Honest conclusion: MOMO is a working prototype with significant limitations. Two of the four major layers (wake word detection and TTS) work well. 
+Honest conclusion: 
+
+MOMO is a working prototype with significant limitations. Two of the four major layers (wake word detection and TTS) work well. 
 The other two (STT and LLM) do not perform adequately for the intended use case. The project demonstrates the feasibility of a fully offline, voice-driven companion on a Raspberry Pi 5, but it is not yet ready for deployment to an elderly user with memory difficulties. The next phase must focus on improving STT accuracy, upgrading to a larger LLM (or accepting a hybrid approach), and completing speaker integration — before any real-world testing can begin.
 
 Next milestone (Week 11+): Wire the speaker, flip PLAY_AUDIO = True, and run a realistic evaluation with the target user — with honest metrics on transcription accuracy, response latency, and response quality. Since TTS is already confirmed working, this step should immediately produce audible output — but the quality of that output will depend entirely on fixing the STT and LLM layers. Only then can the project claim to be a usable companion.
