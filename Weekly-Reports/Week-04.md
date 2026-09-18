@@ -38,3 +38,7 @@ Deliverables:
 Pi 5↔️e-paper ↔️ mic ↔️speakerconnections.
 
 Status:  Components identified and procured, but performance and model-quality risks were already anticipated.
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 5 45 13 PM" src="https://github.com/user-attachments/assets/2d1dafae-fb68-419b-84bc-c0ddda751ae1" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 5 45 14 PM" src="https://github.com/user-attachments/assets/c3fc27ed-a1fa-4364-8caa-28776efc63cf" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 5 45 14 PM (2)" src="https://github.com/user-attachments/assets/e53ea0d5-10c9-407d-b010-7b55f3d3c883" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 5 45 15 PM" src="https://github.com/user-attachments/assets/67f74be5-28b7-4fc2-83d2-ce0910e19c0f" />
